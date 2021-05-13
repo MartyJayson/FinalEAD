@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MidtermEAD:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MidtermEAD</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MidtermEAD-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MidtermEAD:war exploded" />
+    </root>
+  </artifact>
+</component>
